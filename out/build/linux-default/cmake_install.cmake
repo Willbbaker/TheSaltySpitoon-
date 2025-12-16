@@ -1,8 +1,8 @@
-# Install script for directory: /workspaces/TheSaltySpitoon-
+# Install script for directory: /workspaces/SPINAGE
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/workspaces/TheSaltySpitoon-/out/install/linux-default")
+  set(CMAKE_INSTALL_PREFIX "/workspaces/SPINAGE/out/install/linux-default")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/workspaces/TheSaltySpitoon-/out/build/linux-default/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/workspaces/SPINAGE/out/build/linux-default/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/workspaces/TheSaltySpitoon-/out/build/linux-default"
+			"value" : "/workspaces/SPINAGE/out/build/linux-default"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -615,7 +615,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/workspaces/TheSaltySpitoon-"
+			"value" : "/workspaces/SPINAGE"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -627,7 +627,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/workspaces/TheSaltySpitoon-/out/install/linux-default"
+			"value" : "/workspaces/SPINAGE/out/install/linux-default"
 		},
 		{
 			"name" : "CMAKE_INSTALL_SO_NO_EXE",
@@ -1123,10 +1123,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "The CMake toolchain file"
 				}
 			],
-			"type" : "UNINITIALIZED",
+			"type" : "FILEPATH",
 			"value" : "/usr/local/vcpkg/scripts/buildsystems/vcpkg.cmake"
 		},
 		{
@@ -1195,7 +1195,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/workspaces/TheSaltySpitoon-/out/build/linux-default/vcpkg_installed/x64-linux/include"
+			"value" : "/workspaces/SPINAGE/out/build/linux-default/vcpkg_installed/x64-linux/include"
 		},
 		{
 			"name" : "OPENGL_GLX_INCLUDE_DIR",
@@ -1335,7 +1335,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/workspaces/TheSaltySpitoon-/out/build/linux-default"
+			"value" : "/workspaces/SPINAGE/out/build/linux-default"
 		},
 		{
 			"name" : "TheSaltySpitoon-_IS_TOP_LEVEL",
@@ -1359,7 +1359,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/workspaces/TheSaltySpitoon-"
+			"value" : "/workspaces/SPINAGE"
 		},
 		{
 			"name" : "VCPKG_APPLOCAL_DEPS",
@@ -1395,7 +1395,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/workspaces/TheSaltySpitoon-/out/build/linux-default/vcpkg_installed"
+			"value" : "/workspaces/SPINAGE/out/build/linux-default/vcpkg_installed"
 		},
 		{
 			"name" : "VCPKG_INSTALL_OPTIONS",
@@ -1419,7 +1419,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/workspaces/TheSaltySpitoon-"
+			"value" : "/workspaces/SPINAGE"
 		},
 		{
 			"name" : "VCPKG_MANIFEST_INSTALL",
@@ -1603,7 +1603,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/workspaces/TheSaltySpitoon-/out/build/linux-default/vcpkg_installed"
+			"value" : "/workspaces/SPINAGE/out/build/linux-default/vcpkg_installed"
 		},
 		{
 			"name" : "glad_DIR",
@@ -1615,7 +1615,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/workspaces/TheSaltySpitoon-/out/build/linux-default/vcpkg_installed/x64-linux/share/glad"
+			"value" : "/workspaces/SPINAGE/out/build/linux-default/vcpkg_installed/x64-linux/share/glad"
 		},
 		{
 			"name" : "glfw3_DIR",
@@ -1627,7 +1627,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/workspaces/TheSaltySpitoon-/out/build/linux-default/vcpkg_installed/x64-linux/share/glfw3"
+			"value" : "/workspaces/SPINAGE/out/build/linux-default/vcpkg_installed/x64-linux/share/glfw3"
 		}
 	],
 	"kind" : "cache",
